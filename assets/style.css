@@ -64,3 +64,22 @@ th{
     line-height: 30px;
 }
 
+#consigliati-1{
+    padding: 1%;
+    color: white;
+    font-size: 25px;
+    margin-top: 1%;
+    background-image: url(./img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+#consigliati-2{
+    padding: 1%;
+    color: white;
+    font-size: 25px;
+    background-image: url(./img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
