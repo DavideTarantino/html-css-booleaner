@@ -1,0 +1,24 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.pattern{
+    margin-top: 0%;
+    margin-left: 0%;
+    height: 80px;
+    width: 100%;
+    background-color: lightseagreen;
+    background-image: url(./img/pattern.png);
+    background-size: 25%;
+}
+
+.thebooleaner{
+    height: 40%;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+
+
